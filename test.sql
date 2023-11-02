@@ -8,4 +8,4 @@ select * FROM financials;
 
 select * FROM movie_actor;
 
-select * from languages;
+select * from languages ORDER BY language_id;
